@@ -4,12 +4,12 @@ This repository contains the work from my **Bachelor Thesis**, where I explored 
 
 ---
 
-## 🎯 Objective  
+## Objective  
 The primary goal was to investigate whether transformers — specifically **PatchTST** and **MOMENT** — can effectively predict machine failures in advance. Predictive maintenance is crucial because anticipating failures before they happen reduces unexpected downtime, saves costs, and improves overall machine reliability and safety.  
 
 ---
 
-## 📊 Dataset  
+## Dataset  
 
 - **Source**: Microsoft Azure Predictive Maintenance dataset  
 - **Scope**: One year of hourly data for 100 industrial machines  
@@ -29,7 +29,7 @@ The primary goal was to investigate whether transformers — specifically **Patc
 
 ---
 
-## ⚙️ Methodology  
+## Methodology  
 
 ### Prediction Task  
 Formulated as **binary classification**:  
@@ -51,7 +51,7 @@ Formulated as **binary classification**:
 
 ---
 
-## 🚀 Results  
+## Results  
 
 - **XGBoost** performed well on engineered features but struggled with longer horizons (72h).  
 - **PatchTST & MOMENT** outperformed traditional models, especially on longer horizons, by capturing complex temporal dependencies.  
