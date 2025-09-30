@@ -58,4 +58,3 @@ Formulated as **binary classification**:
 - **Class-weighted training** improved recall on rare failures, making models more sensitive to minority cases.  
 - Misclassification analysis revealed **machine-specific risks** (e.g., older machines or certain models more prone to false negatives).  
 
----
