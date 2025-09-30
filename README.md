@@ -59,6 +59,3 @@ Formulated as **binary classification**:
 - Misclassification analysis revealed **machine-specific risks** (e.g., older machines or certain models more prone to false negatives).  
 
 ---
-
-## 📂 Repository Structure  
-
